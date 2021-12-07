@@ -1,5 +1,6 @@
 test git 
 -
+<<<<<<< HEAD
 - Test for git aaaa
 - 
 - 
@@ -30,12 +31,22 @@ a
 a
 - a
 a
+=======
+- Test for git aaaaaaaaaaaaa
+- +-aaaaaaaaaaaaaa
+- -a
+- aa
+aa
+a
+aa
+>>>>>>> main
 - a
 - a
 - a
 - a
 - a
 - a
+<<<<<<< HEAD
 - a
 - a
 - a
@@ -62,3 +73,6 @@ a
 - a
 - a
 - a
+=======
+- 
+>>>>>>> main
